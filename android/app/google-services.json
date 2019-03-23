@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773192877608",
+    "firebase_url": "https://education-28e24.firebaseio.com",
+    "project_id": "education-28e24",
+    "storage_bucket": "education-28e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773192877608:android:70e6a94dfd73feb2",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773192877608-96o377j0190qek4u13f8slu907a23r1g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "773192877608-96o377j0190qek4u13f8slu907a23r1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0wBy8_NYG9k4dP3p72o9F_Xa3m_9b80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
